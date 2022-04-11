@@ -70,7 +70,7 @@ const Login = ({ navigation }) => {
     console.log("Login Function End");
   };
 
-  const signupHandler = () => {
+  const signupHandler = async () => {
 
     // if username, password and password2 are valid then we will send request to api for new user register request.
     if(username!==null && username!=="" && password!==null && password!== "" && password===password2){
