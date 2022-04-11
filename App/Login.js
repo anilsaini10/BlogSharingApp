@@ -237,7 +237,7 @@ const styles = StyleSheet.create({
     // flex: 1,
     display: "flex",
     justifyContent: "center",
-    marginTop: "10%",
+    marginTop: "50%",
   },
 
   loginCard: {
@@ -269,10 +269,10 @@ const styles = StyleSheet.create({
     backgroundColor: "orange",
     textAlign: "center",
     alignSelf: "center",
-    height: 30,
+    height: 10,
     borderWidth: 1,
     width: "40%",
-    marginTop: 10,
+    marginTop: 30,
     borderRadius: 6,
 
     // width: 150,
